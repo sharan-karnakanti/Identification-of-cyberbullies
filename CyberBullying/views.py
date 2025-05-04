@@ -212,15 +212,6 @@ def cal_accuracy(y_test, y_pred, details):
     msg += f"<tr><td>Actual Bullying</td><td>{cm[1][0]}</td><td>{cm[1][1]}</td></tr>"
     msg += "</table>"
     return msg
-# def cal_accuracy(y_test, y_pred, details):
-#     msg = ''
-#     cm = confusion_matrix(y_test, y_pred)
-#     accuracy = accuracy_score(y_test, y_pred) * 100
-#     msg += details + "<br/>"
-#     msg += "Accuracy: " + str(accuracy) + "<br/>"
-#     msg += "Classification Report: <br/>" + str(classification_report(y_test, y_pred)) + "<br/>"
-#     msg += "Confusion Matrix: <br/>" + str(cm) + "<br/>"
-#     return msg
 
 def PostSent(request):
     global classifier, tfidf_vectorizer
