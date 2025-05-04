@@ -173,7 +173,7 @@ def ViewUserPost(request):
             rows = cur.fetchall()
             for row in rows:
                 filename = os.path.basename(str(row[1]))
-                strdata += '<tr><td>' + str(row[0]) + '</td><td><img src=/static/photo/' + filename + ' width=200 height=200 alt="Image not found"></td><td>' + str(row[2]) + '</td><td>' + str(row[3]) + '</td><td>' + str(row[4]) + '</td></tr>'
+                strdata += '<tr><td>' + str(row[0]) + '</td><td><img src="/static/photo/' + filename + '" width=200 height=200 alt="Image not found"></td><td>' + str(row[2]) + '</td><td>' + str(row[3]) + '</td><td>' + str(row[4]) + '</td></tr>'
                 print(f"Image URL: /static/photo/{filename}")
                 file_path = os.path.join(settings.MEDIA_ROOT, filename)
                 print(f"File path: {file_path}, Exists: {os.path.exists(file_path)}")
@@ -196,15 +196,31 @@ def prediction(X_test, cls):
         print("X=%s, Predicted=%s" % (X_test[i], y_pred[i]))
     return y_pred
 
+
 def cal_accuracy(y_test, y_pred, details):
     msg = ''
     cm = confusion_matrix(y_test, y_pred)
     accuracy = accuracy_score(y_test, y_pred) * 100
-    msg += details + "<br/>"
-    msg += "Accuracy: " + str(accuracy) + "<br/>"
-    msg += "Classification Report: <br/>" + str(classification_report(y_test, y_pred)) + "<br/>"
-    msg += "Confusion Matrix: <br/>" + str(cm) + "<br/>"
+    msg += f"<h3>{details}</h3>"
+    msg += f"<p>Accuracy: {accuracy:.2f}%</p>"
+    msg += "<h4>Classification Report:</h4>"
+    msg += "<pre>" + str(classification_report(y_test, y_pred)) + "</pre>"
+    msg += "<h4>Confusion Matrix:</h4>"
+    msg += "<table border='1' style='border-collapse: collapse; text-align: center;'>"
+    msg += "<tr><th></th><th>Predicted Non-Bullying</th><th>Predicted Bullying</th></tr>"
+    msg += f"<tr><td>Actual Non-Bullying</td><td>{cm[0][0]}</td><td>{cm[0][1]}</td></tr>"
+    msg += f"<tr><td>Actual Bullying</td><td>{cm[1][0]}</td><td>{cm[1][1]}</td></tr>"
+    msg += "</table>"
     return msg
+# def cal_accuracy(y_test, y_pred, details):
+#     msg = ''
+#     cm = confusion_matrix(y_test, y_pred)
+#     accuracy = accuracy_score(y_test, y_pred) * 100
+#     msg += details + "<br/>"
+#     msg += "Accuracy: " + str(accuracy) + "<br/>"
+#     msg += "Classification Report: <br/>" + str(classification_report(y_test, y_pred)) + "<br/>"
+#     msg += "Confusion Matrix: <br/>" + str(cm) + "<br/>"
+#     return msg
 
 def PostSent(request):
     global classifier, tfidf_vectorizer
@@ -289,7 +305,7 @@ def RunAlgorithm(request):
 
         vectorizer = TfidfVectorizer(stop_words='english', max_features=1000)
         X = vectorizer.fit_transform(posts)
-        corpus = vectorizer.get_feature_names()  # Compatible with older scikit-learn
+        corpus = vectorizer.get_feature_names()
         label_count = X.shape[1]
         Y = Y.astype(int)
 
@@ -310,19 +326,15 @@ def RunAlgorithm(request):
             output = f'SVM Algorithm Output details<br/><br/>{msg}'
             classifier = cls
             tfidf_vectorizer = vectorizer
-
         elif name == "Naive Bayes":
             cls = MultinomialNB()
             cls.fit(X_train, y_train)
             prediction_probs = cls.predict_proba(X_test)
             predictions = (prediction_probs[:, 1] >= 0.5).astype(int)
-            for i in range(len(prediction_probs)):
-                print(f"Sample {i+1}: Bullying Probability = {prediction_probs[i][1]:.2f}")
             msg = cal_accuracy(y_test, predictions, 'Naive Bayes Accuracy')
             output = f'Naive Bayes Algorithm Output details<br/><br/>{msg}'
             classifier = cls
             tfidf_vectorizer = vectorizer
-
         elif name == "Random Forest":
             cls = RandomForestClassifier(n_estimators=100, random_state=2)
             cls.fit(X_train, y_train)
@@ -331,7 +343,6 @@ def RunAlgorithm(request):
             output = f'Random Forest Algorithm Output details<br/><br/>{msg}'
             classifier = cls
             tfidf_vectorizer = vectorizer
-
         elif name == "Decision Tree":
             cls = DecisionTreeClassifier(max_depth=None, min_samples_split=2, random_state=2)
             cls.fit(X_train, y_train)
@@ -340,7 +351,6 @@ def RunAlgorithm(request):
             output = f'Decision Tree Algorithm Output details<br/><br/>{msg}'
             classifier = cls
             tfidf_vectorizer = vectorizer
-
         elif name == "KNearest Neighbors":
             cls = BaggingClassifier(KNeighborsClassifier(), max_samples=0.5, max_features=0.5)
             cls.fit(X_train, y_train)
