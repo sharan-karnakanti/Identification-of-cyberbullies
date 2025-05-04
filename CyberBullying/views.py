@@ -291,7 +291,7 @@ def RunAlgorithm(request):
 
         for i in range(len(X)):
             line = str(X[i]).strip('\n').strip().lower()
-            line = re.sub(r'[^a-zA-Z\s]+', '', line)
+            # line = re.sub(r'[^a-zA-Z\s]+', '', line)
             posts.append(line)
 
         vectorizer = TfidfVectorizer(stop_words='english', max_features=1000)

@@ -1,337 +1,707 @@
 Tweet,Text Label
-you are a worthless loser nobody likes you,Bullying
-have a great day everyone love the sunshine,Non-Bullying
-nobody cares about your stupid opinions shut up,Bullying
-thanks for the support you guys are awesome,Non-Bullying
-youre so fat and ugly nobody will ever love you,Bullying
-excited for the weekend any fun plans,Non-Bullying
-go kill yourself you pathetic idiot,Bullying
-just finished a great book any recommendations,Non-Bullying
-youre a disgusting pig get off social media,Bullying
-happy birthday to my best friend love you,Non-Bullying
-you sound like a retard stop posting,Bullying
-loving this new song its so catchy,Non-Bullying
-youre a failure and everyone hates you,Bullying
-great meeting you all such a fun group,Non-Bullying
-hush you dumb moron nobody wants you here,Bullying
-cant wait for the new movie looks amazing,Non-Bullying
-youre such a joke go back to your hole,Bullying
-beautiful sunset tonight wish you could see it,Non-Bullying
-youre a nasty libtard keep your mouth shut,Bullying
-had a blast at the concert last night,Non-Bullying
-youre so stupid you dont belong here,Bullying
-thanks for the kind words means a lot,Non-Bullying
-youre a pathetic loser get a life,Bullying
-just adopted a cute puppy so happy,Non-Bullying
-youre a disgrace to humanity disappear,Bullying
-great job on the project team proud of you,Non-Bullying
-nobody likes you you ugly freak,Bullying
-enjoying a nice coffee this morning,Non-Bullying
-youre a moron who cant do anything right,Bullying
-hope everyone has an amazing day,Non-Bullying
-youre such a dumbass stop trying,Bullying
-loved the party last night great vibes,Non-Bullying
-youre a waste of space go away,Bullying
-shoutout to my friends for always being there,Non-Bullying
-youre so annoying just leave already,Bullying
-beautiful day for a walk in the park,Non-Bullying
-youre a horrible person nobody respects you,Bullying
-thanks for the invite had a great time,Non-Bullying
-youre a retard who shouldnt be online,Bullying
-just finished a workout feeling strong,Non-Bullying
-youre a filthy idiot stay away,Bullying
-happy to be here with you all,Non-Bullying
-youre a loser who will never succeed,Bullying
-great food at the new restaurant recommend it,Non-Bullying
-youre so ugly you make me sick,Bullying
-congrats on your promotion well deserved,Non-Bullying
-youre a stupid jerk nobody cares about you,Bullying
-loving the new art exhibit so inspiring,Non-Bullying
-youre a pathetic nobody go cry,Bullying
-had a fun day with family love them,Non-Bullying
-youre a disgusting fool get lost,Bullying
-thanks for the help youre a lifesaver,Non-Bullying
-youre a worthless piece of trash,Bullying
-excited for the game tonight go team,Non-Bullying
-youre a dumb idiot who cant do anything,Bullying
-beautiful flowers in bloom today,Non-Bullying
-youre a nasty person everyone hates you,Bullying
-great to see everyone at the event,Non-Bullying
-youre a moron who should quit,Bullying
-just baked some cookies theyre delicious,Non-Bullying
-youre a failure nobody wants you,Bullying
-happy anniversary to my partner love you,Non-Bullying
-youre a stupid ugly nobody,Bullying
-had a great time hiking today,Non-Bullying
-youre a retard who doesnt belong,Bullying
-thanks for the support you rock,Non-Bullying
-youre a disgusting loser leave now,Bullying
-loving the new book im reading,Non-Bullying
-youre a pathetic idiot go away,Bullying
-great weather for a picnic today,Non-Bullying
-youre a horrible jerk nobody likes you,Bullying
-congrats on the new job so proud,Non-Bullying
-youre a dumbass who cant do anything,Bullying
-just saw a beautiful rainbow wow,Non-Bullying
-youre a nasty fool get out,Bullying
-had a blast at the beach today,Non-Bullying
-youre a loser who should disappear,Bullying
-thanks for the kind message appreciate it,Non-Bullying
-youre a stupid moron nobody cares,Bullying
-excited for the new season of my show,Non-Bullying
-youre a worthless idiot shut up,Bullying
-great to meet new friends today,Non-Bullying
-youre a disgusting pig go away,Bullying
-loving the new cafe in town,Non-Bullying
-youre a pathetic nobody nobody likes you,Bullying
-happy to share this moment with you,Non-Bullying
-youre a retard who cant do anything,Bullying
-just finished painting my room looks great,Non-Bullying
-youre a nasty jerk get lost,Bullying
-thanks for the gift its perfect,Non-Bullying
-youre a stupid loser everyone hates you,Bullying
-had a fun game night with friends,Non-Bullying
-youre a moron who should leave,Bullying
-beautiful starry night tonight,Non-Bullying
-youre a horrible person go cry,Bullying
-great job on the presentation team,Non-Bullying
-youre a dumb idiot nobody wants you,Bullying
-loving the new playlist i found,Non-Bullying
-youre a disgusting fool disappear,Bullying
-thanks for being there youre amazing,Non-Bullying
-youre a pathetic loser get out,Bullying
-excited for the festival this weekend,Non-Bullying
-youre a stupid jerk shut up,Bullying
-had a great day at the zoo,Non-Bullying
-youre a nasty nobody go away,Bullying
-congrats on graduating so proud,Non-Bullying
-youre a retard who doesnt belong here,Bullying
-just tried a new recipe it was awesome,Non-Bullying
-youre a worthless moron leave now,Bullying
-happy to be part of this community,Non-Bullying
-youre a disgusting idiot nobody likes you,Bullying
-great to see the team win today,Non-Bullying
-youre a pathetic fool get lost,Bullying
-loving the new park in town,Non-Bullying
-youre a stupid loser go cry,Bullying
-thanks for the advice it helped a lot,Non-Bullying
-youre a nasty jerk nobody cares,Bullying
-had a fun day at the arcade,Non-Bullying
-youre a moron who should quit,Bullying
-beautiful sunrise this morning,Non-Bullying
-youre a horrible nobody disappear,Bullying
-great work on the project you nailed it,Non-Bullying
-youre a dumbass who cant do anything right,Bullying
-loving the new art class im taking,Non-Bullying
-youre a disgusting pig shut up,Bullying
-happy to celebrate with friends today,Non-Bullying
-youre a pathetic idiot nobody wants you,Bullying
-excited for the concert tomorrow,Non-Bullying
-youre a stupid moron get out,Bullying
-had a great time at the museum,Non-Bullying
-youre a nasty loser go away,Bullying
-thanks for the support love you all,Non-Bullying
-youre a retard who should leave,Bullying
-just finished a puzzle so fun,Non-Bullying
-youre a worthless jerk nobody likes you,Bullying
-great to see everyone at the party,Non-Bullying
-youre a disgusting nobody go cry,Bullying
-loving the new game i got,Non-Bullying
-youre a pathetic fool disappear,Bullying
-congrats on the award well earned,Non-Bullying
-youre a stupid idiot shut up,Bullying
-had a fun day at the lake,Non-Bullying
-youre a nasty moron get lost,Bullying
-happy to share good news with you,Non-Bullying
-youre a horrible loser nobody cares,Bullying
-great job on the event team,Non-Bullying
-youre a dumbass who doesnt belong,Bullying
-loving the new coffee shop vibe,Non-Bullying
-youre a disgusting jerk go away,Bullying
-thanks for the encouragement it means a lot,Non-Bullying
-youre a pathetic nobody leave now,Bullying
-excited for the trip next week,Non-Bullying
-youre a stupid fool nobody wants you,Bullying
-had a great time volunteering today,Non-Bullying
-youre a nasty idiot get out,Bullying
-happy to be here with great people,Non-Bullying
-youre a moron who should disappear,Bullying
-great to try new food tonight,Non-Bullying
-youre a horrible jerk shut up,Bullying
-thanks for the laughs you guys are great,Non-Bullying
-youre a dumb loser go cry,Bullying
-loving the new workout routine,Non-Bullying
-youre a disgusting nobody nobody likes you,Bullying
-congrats on the new baby so happy,Non-Bullying
-youre a pathetic moron get lost,Bullying
-had a fun day at the fair,Non-Bullying
-youre a stupid jerk leave now,Bullying
-happy to see the team succeed,Non-Bullying
-youre a nasty fool nobody cares,Bullying
-great to explore the city today,Non-Bullying
-youre a retard who cant do anything,Bullying
-loving the new book club im in,Non-Bullying
-youre a worthless idiot go away,Bullying
-thanks for the kind words you rock,Non-Bullying
-youre a disgusting loser shut up,Bullying
-excited for the new project at work,Non-Bullying
-youre a pathetic nobody get out,Bullying
-had a great time at the park,Non-Bullying
-youre a stupid moron nobody wants you,Bullying
-happy to connect with new friends,Non-Bullying
-youre a nasty jerk disappear,Bullying
-great job on the art piece so creative,Non-Bullying
-youre a horrible idiot go cry,Bullying
-loving the new hiking trail,Non-Bullying
-youre a dumbass who should leave,Bullying
-thanks for the support team youre amazing,Non-Bullying
-youre a disgusting fool nobody likes you,Bullying
-congrats on the engagement so thrilled,Non-Bullying
-youre a pathetic loser get lost,Bullying
-had a fun day at the beach,Non-Bullying
-youre a stupid nobody shut up,Bullying
-happy to share this journey with you,Non-Bullying
-youre a nasty moron go away,Bullying
-great to see the community come together,Non-Bullying
-youre a retard who doesnt belong,Bullying
-loving the new yoga class,Non-Bullying
-youre a worthless jerk leave now,Bullying
-thanks for the inspiration you guys rock,Non-Bullying
-youre a disgusting idiot nobody cares,Bullying
-excited for the new album drop,Non-Bullying
-youre a pathetic fool get out,Bullying
-had a great time at the festival,Non-Bullying
-youre a stupid loser nobody wants you,Bullying
-happy to be part of this group,Non-Bullying
-youre a nasty jerk go cry,Bullying
-great job on the coding project,Non-Bullying
-youre a horrible moron disappear,Bullying
-loving the new art gallery,Non-Bullying
-youre a dumbass who should shut up,Bullying
-thanks for the help youre a star,Non-Bullying
-youre a disgusting nobody leave now,Bullying
-excited for the holiday season,Non-Bullying
-youre a pathetic idiot get lost,Bullying
-had a fun day with family,Non-Bullying
-youre a stupid jerk nobody cares,Bullying
-happy to see everyone smiling,Non-Bullying
-youre a nasty fool go away,Bullying
-great to try new recipes today,Non-Bullying
-youre a retard who should disappear,Bullying
-loving the new podcast i found,Non-Bullying
-youre a worthless moron shut up,Bullying
-thanks for the support you make a difference,Non-Bullying
-youre a disgusting loser get out,Bullying
-congrats on the big win team,Non-Bullying
-youre a pathetic nobody nobody likes you,Bullying
-had a great time at the concert,Non-Bullying
-youre a stupid idiot go cry,Bullying
-happy to share good vibes today,Non-Bullying
-youre a nasty jerk leave now,Bullying
-great to see the new art exhibit,Non-Bullying
-youre a horrible fool get lost,Bullying
-loving the new bike trail,Non-Bullying
-youre a dumbass who doesnt belong,Bullying
-thanks for the kind message it means a lot,Non-Bullying
-youre a disgusting moron disappear,Bullying
-excited for the new game release,Non-Bullying
-youre a pathetic loser shut up,Bullying
-had a fun day at the zoo,Non-Bullying
-youre a stupid nobody get out,Bullying
-happy to celebrate with you all,Non-Bullying
-youre a nasty idiot go away,Bullying
-great job on the team project,Non-Bullying
-youre a horrible jerk nobody wants you,Bullying
-loving the new coffee blend,Non-Bullying
-youre a dumb moron leave now,Bullying
-thanks for the support youre awesome,Non-Bullying
-youre a disgusting fool shut up,Bullying
-congrats on the new house so excited,Non-Bullying
-youre a pathetic nobody go cry,Bullying
-had a great time at the park,Non-Bullying
-youre a stupid loser get lost,Bullying
-happy to be here with friends,Non-Bullying
-youre a nasty jerk disappear,Bullying
-great to see the team effort pay off,Non-Bullying
-youre a retard who should leave,Bullying
-loving the new workout class,Non-Bullying
-youre a worthless moron nobody cares,Bullying
-thanks for the encouragement you rock,Non-Bullying
-youre a disgusting idiot go away,Bullying
-excited for the new movie premiere,Non-Bullying
-youre a pathetic fool nobody likes you,Bullying
-had a fun day at the fair,Non-Bullying
-youre a stupid jerk get out,Bullying
-happy to share this moment with you,Non-Bullying
-youre a nasty moron shut up,Bullying
-great to see the community thrive,Non-Bullying
-youre a horrible loser leave now,Bullying
-loving the new art project,Non-Bullying
-youre a dumbass who should disappear,Bullying
-thanks for the support you make it special,Non-Bullying
-youre a disgusting nobody get lost,Bullying
-congrats on the new job well done,Non-Bullying
-youre a pathetic idiot nobody wants you,Bullying
-had a great time at the lake,Non-Bullying
-youre a stupid fool go cry,Bullying
-happy to connect with you all,Non-Bullying
-youre a nasty jerk get out,Bullying
-great job on the event so fun,Non-Bullying
-youre a horrible moron nobody cares,Bullying
-loving the new hiking spot,Non-Bullying
-youre a dumb loser shut up,Bullying
-thanks for the kind words youre great,Non-Bullying
-youre a disgusting idiot disappear,Bullying
-excited for the new book release,Non-Bullying
-youre a pathetic nobody leave now,Bullying
-had a fun day at the arcade,Non-Bullying
-youre a stupid jerk get lost,Bullying
-happy to be part of this team,Non-Bullying
-youre a nasty fool nobody likes you,Bullying
-great to see everyone at the meetup,Non-Bullying
-youre a horrible moron go away,Bullying
-loving the new coffee shop,Non-Bullying
-youre a dumbass who should quit,Bullying
-thanks for the support you shine,Non-Bullying
-youre a disgusting loser nobody cares,Bullying
-congrats on the big achievement,Non-Bullying
-youre a pathetic idiot shut up,Bullying
-had a great time at the beach,Non-Bullying
-youre a stupid nobody get out,Bullying
-happy to share good news today,Non-Bullying
-youre a nasty jerk go cry,Bullying
-great to see the team win,Non-Bullying
-youre a horrible fool disappear,Bullying
-loving the new art class,Non-Bullying
-youre a dumb moron leave now,Bullying
-thanks for the help you rock,Non-Bullying
-youre a disgusting idiot get lost,Bullying
-excited for the new festival,Non-Bullying
-youre a pathetic loser nobody wants you,Bullying
-had a fun day at the park,Non-Bullying
-youre a stupid jerk shut up,Bullying
-happy to celebrate with friends,Non-Bullying
-youre a nasty fool go away,Bullying
-great job on the project team,Non-Bullying
-youre a horrible moron nobody likes you,Bullying
-loving the new game i found,Non-Bullying
-youre a dumbass who should disappear,Bullying
-thanks for the support you make it great,Non-Bullying
-youre a disgusting nobody get out,Bullying
-congrats on the new milestone,Non-Bullying
-youre a pathetic idiot leave now,Bullying
-had a great time at the concert,Non-Bullying
-youre a stupid fool nobody cares,Bullying
-happy to be here with you all,Non-Bullying
-youre a nasty jerk get lost,Bullying
-great to see the community grow,Non-Bullying
-youre a horrible loser shut up,Bullying
-loving the new yoga class,Non-Bullying
-youre a dumb moron disappear,Bullying
-thanks for the kind words you shine,Non-Bullying
-youre a disgusting idiot nobody wants you,Bullying
-excited for the new project launch,Non-Bullying
-youre a pathetic nobody go cry,Bullying
-had a fun day at the zoo,Non-Bullying 
-waste prabas,Bullying
-mod la bhaai,Bullying
+"Get fucking real dude",Bullying
+"She is as dirty as they come  and that crook Rengel  the Dems are so fucking corrupt it's a joke. Make Republicans look like ...",Bullying
+"why did you fuck it up. I could do it all day too. Let's do it when you have an hour. Ping me later to sched writing a book here.",Bullying
+"Dude they dont finish enclosing the fucking showers. I hate half assed jobs. Whats the reasononing behind it? Makes no sense.",Bullying
+"WTF are you talking about Men? No men thats not a menage  that's just gay.",Bullying
+"Ill save you the trouble sister. Here comes a big ol fuck France block coming your way here on the twitter.",Bullying
+"Im dead serious.Real athletes never cheat don't even have the appearance of at his level. Fuck him dude seriously  I think he did",Bullying
+"...go absolutely insane.hate to be the bearer of bad news..LoL..dont shoot the messenger (cause we all know you bought that pistol",Bullying
+"Lmao  im watching the same thing ahaha. The gay guy is hilarious! ""Dede having a good day and I dont want anyone to mess it up.""",Bullying
+"LOL  no he said  What do you call a jail cell to a gay guy? Paradise! ahaha.",Bullying
+"truth on both counts that guy is an ass  and their product is sub par. I tell people try Dalesandros orJim's",Bullying
+"Shakespeare nerd!",Bullying
+"you are SUCH a fucking dork",Bullying
+"Heh. Fuck 'em WHERE?!?",Bullying
+"damn it i totally forgot that one!",Bullying
+"wow  damn I would have been pissed @ that...",Bullying
+"nigga u geigh lmao! fuck yo finals beeeeeitch",Bullying
+"that sucks :(",Bullying
+"read that this morning. my fav is how they just straight up say ""cum shots""",Bullying
+"Unibroue 17 !!!! Another damn good Unibroue",Bullying
+"damn your evil 60 minute IPA beckoning me from the fridge right now...",Bullying
+"It did  then my fucking dad turned it off. I just don't think it likes your movies. I was tryin to watch Nanny Diaries.",Bullying
+"it pretty much is a fuck you card..",Bullying
+"that karma is a bitch  HUH",Bullying
+"don't get too fat or you'll turn into a boomer",Bullying
+"the hormones are worse for guys.  I cant tell you how much I truly hate the thoughts that go through my head.",Bullying
+"except for joe jonas the ass munch who broke up w/our tyler via phone..kinda like doing via text - what kind of a-hole does that?",Bullying
+"man that rly sucks. I for 1 am positive that all will work out. You're a bright dude... pretty cool 2 if I don't say so myself.",Bullying
+"hard to kick ass yourself with slippers on?  On it.",Bullying
+"Thats pretty damn awesome! Very smart :) @Aaronage Sure!",Bullying
+"freak'n awesome. so far loving 4.5. the browser is fantastic. and finally video  pretty cool",Bullying
+"Damn  that sounds good...",Bullying
+"they should have a wii loser..that way you can compete with your wii friends.",Bullying
+"@markmancao haha. i love it! gay nights for all!",Bullying
+"that's awesome! you're pretty damn good!",Bullying
+"Faggoty fag fag. Gay secks man blowjob. Settle down.",Bullying
+"Right. That wouldn't be creepy as fuck.",Bullying
+"HOLY SHIT. Fuck that band.",Bullying
+"Gay fag.",Bullying
+"oh ok it's the dick-in-a-box guys  that explains the timberlake appearance",Bullying
+"*falls off of bed laughing fabulous ass off* Dude I think that made me BLUSH. WTF? LOL?",Bullying
+"and @justlikeanovel: *raises hand rather gaily* One real gay man right here  darlings! HOLLA! #supergay",Bullying
+" oh man. the malls are a mess  it grosses me out. ohhh capitalist dogma  how i hate you",Bullying
+"where'd ya put it? o btw: ""kick ass quote Copyright&#169; 2009 @abcd91 All Rights Reserved""",Bullying
+"It sucks to be done with exams n still be @ Mayag.",Bullying
+"Epic WINS for Fuck City&lt;3",Bullying
+"Has it snowed where you are?? I miss the damn snow. I haven't seen any in forever. Everyone has some snow but me :( lol",Bullying
+" aren't you just super special.  I will not know the sweetness of sleep until about 9 tonight. I hate grad school. I want out!",Bullying
+"fuck yes.  I hate them at work...",Bullying
+"Holy ass hell balls!!!  $260 for premium????  Fuck upgrading.  I will fucking cope with Basic",Bullying
+"but seriously...  WHY THE HELL ARE YOU STILL ONLINE????  Were you injured in god damn 'NAM or something???  GO!!!",Bullying
+"damn. Don't want to visit a country that doesn't allow passport smile. Just want to go to Cabo soon.",Bullying
+"I've never been to New York  and Peyton was an ass when the Chargers wanted to draft him  but I do love to win.",Bullying
+"damn.  did you buy bitchy too?",Bullying
+"then by all means  bitch away! haha.",Bullying
+"sucks that ppl will do anything to make a buck. i just love how your fans are calling them out. and i'm glad your iphone is safe.",Bullying
+"Let that pussy freeze. Rotten bitey little bastard.",Bullying
+"Dood! You just justified your MBA. I pity the sorry ass of that downtrodden employee whose manager you'll soon become.",Bullying
+"hehehe. mine pleasure. Btw I too so loves it  when people be presumptous pricksy wicksies! feel jolly nice for me ass to rub on.",Bullying
+"I've only lived a quarter of my life and no crisis so far... loser experience  yeah...couple of kinky pinky stuff-yeah. But crisis? Naa",Bullying
+"imagine a building. not any building...a fucking 300 acre building full of weed....not any weed...but Caucasian Monkey-fuck Weed!",Bullying
+"Ugh  twitter stop it  you fucking slut.",Bullying
+"HAHAHAHAHAHAHAHAHAHAHAHAHA (eww now thats fucking gross!) HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAHAHAAHAHAAHAH",Bullying
+"cute video lexi u hve some of the of the weridest & cutest little toys i know wht u'll say (shut the fuck up ACH) haha",Bullying
+"Fuck the pics! @giove_dea WE WANT VIDS!!",Bullying
+"Hard to play because it is damn fucking awful",Bullying
+"you got that right! People stealing others' generators  & other stuff inside the homes when they know no one's home..sucks big time",Bullying
+"no grown man should include DIP in his sentence....lol...I know I'm hatin but fuck it I'm lookin @ snow..lol",Bullying
+"oh god  we have an icp display in our window  and weve been getting so many fucking juggalos and they smell sooo bad.",Bullying
+"you should have her talk to @junsten about that. Similarly  he once told me  completely out of the blue  ""I'd hate to be a bird.""",Bullying
+"I nominate @PRsarahevans for a Shorty Award in #socialmedia because... Shes damn good at everything to do with Social Media.",Bullying
+"Captain Jean Luc Pic-card of the USS Enter-prize  Captain Jean Luc Pic-Y'KNOW WHAT? FUCK YOU  TEMPLESMITH!",Bullying
+"FUCK YOU RIGHT IN THE FILTHY PUCKERING SPHINCTER YOU CALL A SOUL!",Bullying
+"another downside to living in DSM but working in Indianola:  lunch meetups are usually not possible. :( damn isolation!!!",Bullying
+"there's nothing better than listening to music on shuffle and hearing you say ""you bitch!"" randomly in the middle of it.",Bullying
+"I got it. How many damn websites do u have homie! Sheesh!",Bullying
+"U know they all the same dame spot! I bet ya'll got the same damn middle eastern type of cats cooking that crack up too!",Bullying
+" kno I check ur blog out! Alpha females vs being a bitch.....damn u be analyzing!",Bullying
+"haris i m trying to control my fat tummy did'nt eat from 2 days :D",Bullying
+"700. you glutinous bitch!",Bullying
+"Ok  you're starting to sell me on these vinyl toys (damn  that sounds bad)",Bullying
+"So true  so true.  Lame ass people are now officially off my radar!!!! Bu-bye!",Bullying
+"lo thankyou.. will see you soon :) and i hav to send a mail to u damn!",Bullying
+"Have you tried 'fuck' and 'Fuck'? (yes  they are different)",Bullying
+"Well  not unless he wants some hot Vulcan action.  It only happens once every seven years  but damn  is it worth it.",Bullying
+"damn i was hoping for some cash out of this... how bout 5 for pain and suffering lol",Bullying
+"that sucks... she should prolly just change her major lol",Bullying
+"that sucks... so are there plans to get back together? or are they done?",Bullying
+"you are a fatty fat fat",Bullying
+"you never posted your blog. and today is guest blog day. get with the program my slut pink zebra. LOL loveee you anyway!",Bullying
+"they're not gross. U shaddup u fat ass HATER!!! & yes I made them for mark & my son.",Bullying
+"no one likes every fat snack u do bitch! so shaddup ahahahahaha",Bullying
+"stop the hateration bitch! it's only gonna make that mohawk stand up rotf!!!",Bullying
+"ask him why he's jumping out of the window. And ask him hows he gonna do it in those tight ass jeans???",Bullying
+"'Night Guy' is ALL motivated @ 11pm but he knows 'Morning Guy' is gonna hate him when Miss Emily arrives at 5:30am ;-) Night Tweets!",Bullying
+"OK but I'm telling you  it's going to be hard for me to fight my inner grammar nerd. I'll do it for the cause though ;)",Bullying
+"mythbusters is a great and nerdy show. Embrace your inner nerd..no suprise they were on the launch of youtube live ha NERDZ ROOL",Bullying
+"lol @ ""the bitch"". damn.",Bullying
+"damn. thats crazy early. i wont hit the city til 9:30 but i will be a few blocks from the spot.",Bullying
+"Slurpees are awesome. Damn  now I really really want one O.o",Bullying
+"I can see it now. ""Listen  you cow-loving yahoos  just put all of the slurpee in this bag! What? Cups? I don't need fucking cups!",Bullying
+"i loved it  i laughed my ass off",Bullying
+"ahh  you might be on to something...damn techies",Bullying
+"The pig of shame? Lol! Is that like the aardvark of discontent?",Bullying
+"Still - it's damn moronic that media people can't access media - particularly media made by their own company!",Bullying
+"if anyone said Arial I'm gonna beat their ass.",Bullying
+"well find him and kick his butt too! I hate it when people take advantage of the mentally challenged.",Bullying
+"Tell her she says Bitch like it's a bad thing",Bullying
+"I did have a moment of seriously considering that. I mean... my Dirt Devil sucks. But I didn't plan on buying a new one soon",Bullying
+"Ugh! I hate when I get spam followers... They shouldn't count against our talley of actual followers... :-p",Bullying
+"You know what you are? You're like a big bear with claws and with fangs... big fucking teeth  man.",Bullying
+"Damn  you're totally geeking out on us tonite.",Bullying
+"the eagle w/ @leahsairy ... Decided 2 not do power lesbian night @ mecca & hang out w/ our real queer ppl 2night. gr8 indy band. Emo punk.",Bullying
+"we are so silly and pathetic and so fucking cool! You tellin me you choking made me choke! And I am sitting next to some girl w ...",Bullying
+"Let your hate for Gambit grow. Embrace it. Spread it.",Bullying
+"dig deep and find that special Christmas hate!",Bullying
+"I tried to rickroll my office christmas party last night but the damn band didn't know it!",Bullying
+"even though I was at the same lunch as you  we missed you at our end of the table! Need a damn smart phone! Coulda tweeted back.",Bullying
+"Smack a bitch? :-D",Bullying
+"rock  not the. He gives the emo populists limp wrist rocker throw.",Bullying
+"Already on the less #damn-fridays  more #bad_wookie_pun",Bullying
+"women are fucking disgusting.",Bullying
+"you bet your sweet ass you will!",Bullying
+"dating a 4 year old? Damn. You're faster than me. I only caught 3 year  not any weed...but Caucasian Monkey-fuck Weed!",Bullying
+" will do when i get home  only time i heard it was warped though  fuck life!",Bullying
+"Man  why u live in NYC in that crazy ass weather. Move out to LA. It's nice EVERYDAY. NYC is soo over-rated! lol",Bullying
+"i got ur ticks  but yo ass ain't gonna come! lol",Bullying
+"Ugh  ok... I hate NYC also. Hmmm. thinking...We are having a Screening on the FOX Lot that week. Maybe u can roll through?",Bullying
+"stuff like building the forums is what I do when writing is kicking my ass  that's how I do it ;)",Bullying
+"Also  I caught that ""Gai-damn"" earlier  and I support it 100% ;)",Bullying
+"gee  i'd hate to see what you say about the family ;)",Bullying
+"dude dont tell me what to do thats not your place. i do what i want. just chill the fuck out and worry about yourself.",Bullying
+"damn fine! The snow is gone thank god!",Bullying
+"That sucks.  Life can't really be that bad  right?  Chocolate does always help.",Bullying
+"i hate you :P happy birthday dude  good to know your enjoying it",Bullying
+"thats a good question.  most lawyers HATE that stuff.",Bullying
+"YOU STUPID WHORE I HOPE YOU ARE IN YOUR HOUSE WHEN I BURN DOWN YOUR HOUSE YOU STUPID WHORE WHY WOULDN'T YOU GO TO PROM WITH ME",Bullying
+"oh guess who got an australian shephard puppy today. note: NOT ME. the other roommate. yeah. another. fucking. dog.",Bullying
+"ummm. Ya. That's pretty damn pimp.",Bullying
+"as much as I hate the winter  those pics are beautiful. We've had insane-o storms like that in MO. Sucks so bad  esp sans power",Bullying
+"got delayed.  your ass kicking will have to wait.",Bullying
+"I know it sucks  but I'm actually envious of you.  Though I have orientation for a tutoring program on the 14th.  Did I tell you?",Bullying
+"it was just a joke man..i wasnt taking the piss out of anything.",Bullying
+"i hate your face sounds EXACTLY like something i would say.also reminds me of a drunk girl trying to fight me and",Bullying
+"i was spanked but do not  only because it makes my kid behave worse  so doesn't work. not a lot does work-kinda sucks too.",Bullying
+"I've been messing around with some of the beta releases. It murders every other WP version (widget panel still sucks though).",Bullying
+"Are you laughing your ass off with all these ""juicy"" twits?",Bullying
+"yeah we do... damn this time difference *HUGS*",Bullying
+"OMG bundesliga and brasilian bossanova. This was worse than seeing your loved family dog licking his ass. I'm scarred",Bullying
+"hmm so thats suk your soul hate and reinvent you to get my dry cleaning hate?",Bullying
+"yep. I didn't think to go online and check calorie/fat count until AFTER dinner. Bummer.",Bullying
+"wow - mommy's little cheerleader! *must... not... take... the...piss......*",Bullying
+"lol.. that sucks..it's so nice in miami... catching that ocean breeze from the balcony....don't want to rub it in...lol",Bullying
+"oh hot damn!",Bullying
+"He can't hear you  his head's too far up his own ass.",Bullying
+"Prison Bitch is a sparkling addition to any resume.",Bullying
+"a constant receiver does not a giver make. Prepare to be Prison Bitch Blagojevich (new campaign slogan  it rhymes)",Bullying
+"that sucks that you're sick. Sorry to hear that.",Bullying
+"No thanks. I don't want cable. I hate most TV shows. I really hate commercials. I get my news online. I'm good. :)",Bullying
+"try telling your parents that you don't want to see them. see how well that fucking works out for you  yeah?",Bullying
+"Football. I hate it. It&#8217;s official  I&#8217;m bad luck.",Bullying
+"I fucking love Haunted.",Bullying
+"I didn't know you were an avid football watcher. Is that even football? I think it is. Fuck sports.",Bullying
+"lol kevin bought me damn near nothing and we dated for over 10 months. my life sucks.",Bullying
+"Yea it sucks!!",Bullying
+"Indeed. But the Collier conversation relationship head up your gleeful ass kumbaya stuff needs to be put out with the trash.",Bullying
+"yeah i am glad i have the next 2 days off.. I just have to get through xmas eve and the weekend afterwards. damn gift cards",Bullying
+"hot damn! did you get an iPhone too?",Bullying
+"aw  thanks. it's going better than yesterday  that's for damn sure. :-D",Bullying
+"no. i must have missed that one. damn. ;-)",Bullying
+"have a safe flight.....damn now you make me want some jamba juice",Bullying
+"I got it for Wii  when I get back from my dad's we're gonna play and it will be so kick-ass.",Bullying
+"http://twitpic.com/xm6u - You have an inbox folder for CYA - Covering Your Ass?",Bullying
+"him and his damn tech stuff bwahaha",Bullying
+"i'm not emo. I'm fucking happy!",Bullying
+"well now I have to edit myself and you know how I hate that!",Bullying
+"if u get a stye is it from seeing a dog shitting or fucking?  And what do I do with my fingers?  Consult H if u need to.",Bullying
+"what does that say about me that I was laughing my ass of when I heard that. Rapping the word titties is just damn funny",Bullying
+"& I was there helping your ass pack to get on the plane. A tru friend - helping you track a sub sized weiner like fucking GPS",Bullying
+"you have officially been put on my bread stick mailing list. Fuck those rock republics and eat something already.",Bullying
+"i get that ha ha smart ass :p",Bullying
+"i feel pretty oh so pretty...i feel pretty and witty and gAY! Ha ha good times",Bullying
+"Yeah  I mean I know the plan and the creative are kick-ass. But sometimes clients have a warped view.",Bullying
+"Oh man  that sucks. @Vincentdooly can you help @dsmoore out?",Bullying
+"yea the weather sucks. At least you missed the 8 degree weather though lol.",Bullying
+"I do  but I'm an American. Hence  I'm a pussy.",Bullying
+"God.. that commute has to be a bitch dealing with.. driving back and forth from Raleigh to Fayetteville...",Bullying
+"I take full pride in being a nerd. Hahah.",Bullying
+"THAT'S AN UGLY ASS PICTURE!",Bullying
+"Pretty much  but now there will be less AIM errors! Weeeee  you can see that I don't type like a retard!",Bullying
+"My grandmother is a big bitch and my father's a fraking arsehole.",Bullying
+"you must be bored...you are a twitter whore today. ;)",Bullying
+"man i'm jealous of your day! i'm also hooked on twitter. damn arv. like i needed another procrastinating tool like this.",Bullying
+"just don't eat a meal replacement bar.. I fucking threw up!!",Bullying
+"fuck duke!",Bullying
+"what if their ""you"" really sucks? like  why be a wack person when you can be an imitation of a more cool person? i think this",Bullying
+"2 weeks? how am I gonna live without money for 2 fucking weeks?",Bullying
+"Well get your ass busy!",Bullying
+"Hi new friend! I like your personality.super cool:) Yeah I forgot it is like 9 am there..that sucks!",Bullying
+"damn that sucks..I hope you are ok now",Bullying
+"haha! No. We have a new stand up board at work and we have barstools to sit on. I hate them!",Bullying
+"Excited that yr friends get to see yr show. I hate them. ;) No  rly  I do. .....Sad that tonite is last show.  Hard to say goodbye?",Bullying
+"Thanks. Nothing just watching ""Jack ass"". Are you having fun doing nothing over there?",Bullying
+"Well  that's upsetting. We can party it up over here. Jack's ass is quite enjoyable thank you",Bullying
+"Fuck. Well  you can for a low cost of 19.99 with shipping and handling. But that's only if you really want to.",Bullying
+"Fuck again. Call 1800QZAK. Then your problems will be solved. I might even get you a discount",Bullying
+"If you stay home to twitter and have a martini on NYE does that make you a loser?  don't answer that...  I don't want to know",Bullying
+"you're a fucking maniac.",Bullying
+"its ok decided not to go to fam party. going back to bed. wtf moon i hate you. wtf life. dead.",Bullying
+"HAHA WHYYYYY do you hate my school!? NOOOOOO :(:(:",Bullying
+"FUCK SUNDAY im super bummed.",Bullying
+"whelchers fuckin suck ass!",Bullying
+"some peoples drama just sucks!",Bullying
+"well that sux donkey dick. No interwebs is kinda a pain for ur work.",Bullying
+"Then she changed roles and she is a little less bitch from hell but still  her sting has too much barb.",Bullying
+"today feels like sunday.....damn lol",Bullying
+"Damn didnt even see that lol  : /",Bullying
+"HATE THAT...happened to me today i was like...YOUR WELCOME *cut eye* and walked back out lol",Bullying
+"i hate hate hate it with a passion!! lol...i know the calls are recorded i talk mad shyt down the phone LOL!!!",Bullying
+"don't you hate that?  Though I have so much product to make by the weekend I wish it was Tuesday.",Bullying
+"i think its a cultural fad.. starbucks coffee sucks and its wayy overpriced.",Bullying
+"i just deleted all the people that i have on my facebook off myspace Damn if everyone switched i could just delete the account",Bullying
+"no! I think UofA's navy jerseys on white pants rule.  And all red sucks. But seeing BYUs colors  I guess all red makes sense.",Bullying
+"here 2!Another big storm is blowing our way. I hope it waits until I'm home from work b4 it starts snowing. Hate driving in it!",Bullying
+"no i think you will hate it. Its a bunch of dirty work.",Bullying
+"the iced media party. Long ass day at the office  time for a drink or 3",Bullying
+"easy! keyshia sucks. It's pathetic when an actor makes a better album in his 3rd profession (act  stand up) than you do in your first",Bullying
+"@TheflyGIRL Done! But I must tell you  that negro got a hard ass head. My elbow hurts...",Bullying
+"LOL at the Razor Ramon shit. I surely was gonna Ultimate Warrior his ass. Shaking the ropes and the whole 9!",Bullying
+"You done started something! Got me all nostalgic and shit KNOWING good and damn well I got work to do...LOL",Bullying
+"@mekdot yo...heroes sucks!!! I loved season 1  despised 2 and feel like season 3 is a lousy high school special. BOO HISS BOO!!",Bullying
+"That sucks  they owe you much?",Bullying
+"Boo  to be fair they shouldn't give away your room. Kick their ass!",Bullying
+"Wow  that's bad-ass. You're like Stanley now. Well  even more so...",Bullying
+"lol figured. So anyway  anna is still being a bitch(sorry for the language) She doesnt want to go on the trip. So now onto plan B",Bullying
+"anna just has to ruin the holidays for me  just like every year. Damn you anna!",Bullying
+"rock out with ur cock out dude!!!",Bullying
+"that's a shame  I hate having to unfollow someone! :-P",Bullying
+"BIG FAT HARD HAWAIIAN DICK. Too much?",Bullying
+" i hate that too - i have blocked a few of stalker / serial networkers on fb too.  maybe they should tweet first?",Bullying
+"LOL - nah  that's just what we tell the loser guests that we usually toss down in the newsroom!! oh  wait...",Bullying
+"Israelis to Spanish FM ... Kiss my ass.",Bullying
+"No  but I'm saying that money that has gone into Gaza SHOULD be feeding people  not waging war and breding hate.",Bullying
+"I had a dream involving a rhino chasing me because of my polo cologne. Everyone says it represents a fat woman. My life sucks.",Bullying
+"Taking the piss = talking trash  perhaps",Bullying
+"& @babysinead that dude is a fucking PSYCHO. i turned down working for him and he told ppl that I DID and that i was TROUBLE.",Bullying
+"& @babysinead i've never even met him in person. he's a fucking douche.",Bullying
+"I get that too! It sucks!",Bullying
+"hey fag why you gotta ask the whole world!? j/k your awesome",Bullying
+"gotta love the gay kid who was drumming trying to get his head in the pic tho HAHA",Bullying
+"Sheeyat....Freezing rain is no punk. Hope you didn't fall & bust your ass in the parking lot.... I almost did.",Bullying
+"Damn skippy. I should be dead 10 times over......",Bullying
+"Its foggy as hell here too. Looks like damn Seattle.",Bullying
+"lol penelope died?? thats so depressive  i have a compaq it sucks  i dont have a name for my computer tho : )",Bullying
+"Do you really have a big man ass?",Bullying
+"i don't know that bambi's ass is a nice place. LOL",Bullying
+"attention whore!",Bullying
+"I laughed so hard when I first heard because my gay husband (good friend  lol) says code 3 when he has an emergency",Bullying
+"http://twitpic.com/xipq - this only makes me hate having a verizon contract even more.  erg.",Bullying
+"no guarantees.  hate the place. I'm ust going there to make sure my parents are still alive.",Bullying
+"AWWWW I HATE THAT!!!! I had to buy that gadget you can stick your hard drive into to pull them off. SO SUCKS! Sorry. :0(",Bullying
+"Praying for your grandmother and your momma. I hate that they are facing so much.",Bullying
+"bitch please your gorgeous",Bullying
+"i fucking hate that word  hahaha.",Bullying
+"i know  haha. 1408 is so gay. i don't even know why i'm watching it.",Bullying
+"omg - that sucks arse! I am so sorry =/",Bullying
+"Sounds like good times. I'm in the office until 7:00 and then I'll probably go for a run. I'm a fat boy getting fatter.",Bullying
+"Ye Olde Cock looks nice.",Bullying
+"sure you can  I'll hide the flashlight. go emo go!",Bullying
+"emang lagu2nya emo? bukannya mellow? :D",Bullying
+"gitu emo jaman dulu ya :D",Bullying
+"Listen  RayRay  I gave you the lowdown as soon as I got it. I hadn't heard it b4 and I was shocked. She seems to hate his guts.",Bullying
+"I thinks you meant to say that TWILIGHT was epic fail  not your mistake. I hate stephanie meyer and I've never even met her.",Bullying
+"lawl. Sucks to be THEM  then.",Bullying
+"I'd die first. Damn fareway.",Bullying
+"LMAO! He's horrible. The Beatles changed the fucking WORLD! And are still an icon to this day. Who the fuck are you?!?!?",Bullying
+"I need to see how this ravin rabids game works first. It'd all have to be in the ass moving. Maybe not moving enough = bad oral?",Bullying
+"holy fucking jesus mother  gad damnit WTF? wow.",Bullying
+"really? Thank fucking god for sleeping pills!",Bullying
+"dude  that pic of you in the Gold 2009 flyer looks like a friggen glamour shot  fag. hearts!",Bullying
+"Eff yeah! give @jeffreyparadise and @richiepanic a slap on the ass for me",Bullying
+"you are fucking killing me. Please come to a party at my house next time yer in LA. Rice pilaf will be ready",Bullying
+"I hate to open the flue after a long fall. We get birds or dead squirrels...totally scary!!!!!",Bullying
+"depends on how much you hate fighting w/your light. I read in the car a lot while hub drives  so very worth it to me.",Bullying
+"he won't wanna pet the guinea pig?",Bullying
+"i'd love to visit (or live) in sa...(truncated 2659211 characters)...can't. So when it comes down to it  theres nooo reason a male should ever hit another female. Ever.",Non-Bullying
+" heck yess.",Non-Bullying
+" Do you believe in life after death?",Non-Bullying
+" i wish u werre fake",Non-Bullying
+" both :P",Non-Bullying
+" I dont havee mineee D:",Non-Bullying
+" Middle school? Well I've never been emo haha but I don't think Ive been any of those. I was really independent from the beginning. Sooo I was the girl that had glasses and wore the straight legged jeans till jr high but was really funny and everyone liked &amp; was friends with anyways. Areopostale was instyle bigtime when I was in middle school so idk I was friends with everyone though. r And I didn't wear makeup till I was a Jr in HighSchool!! haha",Non-Bullying
+" How many hours of sleep do you need to function?",Non-Bullying
+" I havent seen it yet  i really like his cd though.",Non-Bullying
+" TABIAHHHH...",Non-Bullying
+" its more like 5 mins :) and i was delayed by a train ;)",Non-Bullying
+" Name something that&;s better when it&;s in your hands?",Non-Bullying
+" i used to think that but not anymore.",Non-Bullying
+" They say the garden of Eden was in Iraq. Then where is Hades?",Non-Bullying
+" nope. idk what i am haha",Non-Bullying
+" favorite drink ?",Non-Bullying
+" What are your plans for the weekend?",Non-Bullying
+" baptist.",Non-Bullying
+" Yes I do. :]",Non-Bullying
+" ever tought about going to the Moon or anouther Planet ??",Non-Bullying
+" favorite dish",Non-Bullying
+" I love cameras. Show your face yooo",Non-Bullying
+" Nope. Ohio :]",Non-Bullying
+" comedy",Non-Bullying
+" i may",Non-Bullying
+" What&;s a word that rhymes with TEST?",Non-Bullying
+" ! w@nn@ fuck y0u. @nd y0u d!d f0rq3+ @b0u+ d@+ h03 VvV",Non-Bullying
+" every now and then",Non-Bullying
+" Do you prefer Tupac the best singer in the WORLD i mean was he dead and who doesnt like lee",Non-Bullying
+" i do <3",Non-Bullying
+" God that was a fun night  I want to relive it...we danced in wall mart to betoven bahahaha",Non-Bullying
+" Tabi is real!!! i knew her when she lived in Idaho!-Kinly",Non-Bullying
+" What was the first thing you thought when you woke up?",Non-Bullying
+" NOT AT ALL",Non-Bullying
+" it wass gudd",Non-Bullying
+" Do you like your eggs scrambled or sunny side up?",Non-Bullying
+" gay or lesbians?",Non-Bullying
+" If the whole world were listening  what would you say?",Non-Bullying
+" if thats what he'd wanna do then im not doing something right. so no but that shouldnt be an issue",Non-Bullying
+" A world without bees; good or bad?",Non-Bullying
+" yeah idk either  i honestly think its that person we were just talking about  the one that annoys you",Non-Bullying
+" If you had to give up one favorite food  what would the most difficult?",Non-Bullying
+" So who is it that you like?",Non-Bullying
+" haha it  was kayla that wrote that lol you thought it was phoebe i tricked you hahahahaahahahahah :D",Non-Bullying
+" lol dnt worry iWill..Watz ya name?",Non-Bullying
+" Will you b my valentine?",Non-Bullying
+" im bout 5'9",Non-Bullying
+" it makes conversation haha",Non-Bullying
+" OMG!!!!! tell me!!!! ughh grrr rawrr bianca? LMAO! idkk TELL ME!",Non-Bullying
+"1",Non-Bullying
+" depends on what they're cooking. my dad makes amazing lasagna  chili and veggie soup. but my ma makes awesome fried chicken and wedges and mashes taters and baked ham.oh my!!",Non-Bullying
+" I like parks :]",Non-Bullying
+" If you saw your zipper was down and people had noticed  what would you do?",Non-Bullying
+" Would you rather take the picture or be in the picture?",Non-Bullying
+" Ohhhhh I get it now.",Non-Bullying
+" If you could ask Barack Obama one question what would it be?",Non-Bullying
+" Have you ever played Bloody Mary?",Non-Bullying
+" Are minors allowed to drink in your state?",Non-Bullying
+" lol",Non-Bullying
+" Call me tomorrow at 7:00 AM.",Non-Bullying
+" idk........",Non-Bullying
+" how did youu know ?",Non-Bullying
+" You can cast any actor now alive to play you in a film about your life. Whom would you cast in the role?",Non-Bullying
+" which year was your favoroute school year... i know its not this year cause you had taylor in your class!but it still could be this year...",Non-Bullying
+" Idk what &quot;love stoned&quot; is.. so idk haha",Non-Bullying
+" Its just the way this world works these days. haha",Non-Bullying
+" Nicee!",Non-Bullying
+" How many keys are on your keychain?",Non-Bullying
+" sherbert. yes :)",Non-Bullying
+" are your parents on facebook?",Non-Bullying
+" List 5 people you know. Then describe each of them in 5 words.",Non-Bullying
+" Not yet ;] Sure hope so here soon!! :D",Non-Bullying
+" Yes ma'am",Non-Bullying
+" Have you told anybody you loved them today and meant it?",Non-Bullying
+" tosha haejin goodin. real as it gets lol",Non-Bullying
+" Have you ever been to South America or Africa?",Non-Bullying
+" Hahaha(: ight",Non-Bullying
+" spiderman.",Non-Bullying
+" sometimes",Non-Bullying
+" Haha awee' who is this?",Non-Bullying
+" lolss dhat aiint gudd",Non-Bullying
+" okayyy!",Non-Bullying
+" not at all.",Non-Bullying
+" Are the best things in life free?",Non-Bullying
+" Yes I have actually.",Non-Bullying
+" Hahahahaha thats funny. I wanna learn so I can read all the questions you answer in filipino...haha its not fair!!",Non-Bullying
+" purple :P",Non-Bullying
+" Why u so perfect!? ;)",Non-Bullying
+" I want my mom to _________.",Non-Bullying
+" hahahahahaha http://lmgtfy.com/?q=What+is+a+dero%3F",Non-Bullying
+" Do you like your living arrangement?",Non-Bullying
+" What do you think of my questions?",Non-Bullying
+" If you could have been the author of any book  what would it have been?",Non-Bullying
+" your like wiked pretty  im soo jealous :",Non-Bullying
+" What&;s your favourite part to watch in Rent?",Non-Bullying
+" If you&;re from Africa why are you white?",Non-Bullying
+" wanting to help everyone but myself.",Non-Bullying
+" hahahaahha i know  myspace.com/tabiisaninja",Non-Bullying
+" How long does it take you to get to work or school?",Non-Bullying
+" hahahha i really love that hahaha :)",Non-Bullying
+" I think the mama song :) hahar It was really pretty and it was the first time I had heard it  so live was awesome.",Non-Bullying
+" dont watch talk shows.",Non-Bullying
+" Does it annoy when people jock your shit?",Non-Bullying
+" When was the last time you flipped someone the bird?",Non-Bullying
+" Have you ever asked someone out on a date?",Non-Bullying
+" really i heard u guys got together?",Non-Bullying
+" What is the last film you saw?",Non-Bullying
+" we dont currently have a dining room rightnow haha",Non-Bullying
+" Hello there dear :) and your verrrryyy welcome.",Non-Bullying
+" kkk",Non-Bullying
+" ummm  im not sure haha i dont find anything i do impressive",Non-Bullying
+" ABCDEFGHIJKLMNOPQRSTUVWXYZ. Pick one...",Non-Bullying
+" Beachhh !",Non-Bullying
+" oooollllldddd",Non-Bullying
+" If you had threee wishes what would they be",Non-Bullying
+" i dont think so",Non-Bullying
+" hahhaha I would probably die of laughter.",Non-Bullying
+" 10ish",Non-Bullying
+" Does your name make any interesting anagrams?",Non-Bullying
+" When you were a kid  what did you want to be when you grew up?",Non-Bullying
+" How old is your inner child?",Non-Bullying
+" tabi i think your the best but you push me away from being your friend because i did something wrong and i hate myself everyday and ive always regreted it happaneing i dont know if you know who i am but i want you too know i wish that never happened",Non-Bullying
+" lmfao hell no iGet way better [[no offense]]",Non-Bullying
+" Y0u m@d3 d@ h03 0rq@$m @q@!n. F0r d@ dozenth t!m3",Non-Bullying
+" dickkkkkkkkkkkkkk????",Non-Bullying
+" because there is nothing else to do.",Non-Bullying
+" good to know good to know ;)",Non-Bullying
+" used to be a whole hell of a lot but now not so much.",Non-Bullying
+" people talk about something you know they have no clue about.",Non-Bullying
+" How do you think the Obama administration is doing so far?",Non-Bullying
+" what does teaachgee mean? do you know what emahsnouoy mean? :]",Non-Bullying
+" Have you ever eaten an entire pint  or more  ice cream by yourself?",Non-Bullying
+" movies or music?",Non-Bullying
+" i forgot her namee  sorry D;",Non-Bullying
+" whats ur fav tv showww? :D <3",Non-Bullying
+" haha no im not lmao",Non-Bullying
+" nm...just chillin",Non-Bullying
+" summer sandals",Non-Bullying
+" who&;s &quot;jokes&quot;",Non-Bullying
+" Yes  bhut I think luck is blessing from God actually! in my opinioN!",Non-Bullying
+" k",Non-Bullying
+" lmao  i thought he spelled it some way messed up way. but lmao and you like i'll have 8says order8 and thats jack  j-a-c-k. then your mom-he knows how to spell jack. hahahahahaha",Non-Bullying
+" Haha...when i turn 60 ish ask me this! lol",Non-Bullying
+" Sometimes if your daydreaming but then your daydreaming so its not nothing..haha",Non-Bullying
+" Do you prefer Scary movies or comedy movies?",Non-Bullying
+" What gives you bliss?",Non-Bullying
+" your mom just told your dad to go sleep on the couch what are they fighting over?",Non-Bullying
+" hahahahah this is awesome i know how to send messages to all my friends",Non-Bullying
+" Would you reather have your heart be broken or break someones heart?",Non-Bullying
+" (girls)Can you belly dance?r (guys)can you break dance?",Non-Bullying
+" What age would you liek to get married?",Non-Bullying
+" haha. does that really work on people? i am gullible at times but really?",Non-Bullying
+" do you listen to your mom??",Non-Bullying
+" idk lol",Non-Bullying
+" Hello(;",Non-Bullying
+" hahahahahaha yess. :)",Non-Bullying
+" that everyone has a secret.",Non-Bullying
+" :) HAHAHA AWHHHHHHHHHHHHHHHHHH <3",Non-Bullying
+" so whats up",Non-Bullying
+" i eat it like a normal person lol",Non-Bullying
+" Whats your favourite song out at the minute?",Non-Bullying
+" Have you ever cried yourself to sleep?",Non-Bullying
+" as soon as you turned on your computer  what website do you go to first?",Non-Bullying
+" LEADER <3",Non-Bullying
+" hmm..paris hilton",Non-Bullying
+" timothy",Non-Bullying
+" What&;s your favorite YouTube video?",Non-Bullying
+" haha thanks (:",Non-Bullying
+" Meowl?;D If thts a word haha<3",Non-Bullying
+" how much should a bag of kettle korn be?",Non-Bullying
+" Do you like ketchup but hate tomatoes?",Non-Bullying
+" just checking if your like a chomo or something ha. good thing you said ew.",Non-Bullying
+" tommy pickles. from rugrats",Non-Bullying
+" How long does it take to get over a &quot;bad&quot; relationship? (bad does not imply violent)",Non-Bullying
+" H2o",Non-Bullying
+" Is quality or quantity of friends more important?",Non-Bullying
+" Are you wearing the p<br>",Non-Bullying
+" MOst dEfinAntly. <3",Non-Bullying
+" love it",Non-Bullying
+" no",Non-Bullying
+" do you want to switch places with a male?",Non-Bullying
+" iLoveYou! Thanks alot! Bhut its alot 2 keep up wit! Wanna trade haha!",Non-Bullying
+" Are you someone&;s best friend?",Non-Bullying
+" yo ppl spread the word and ask me more questions =]",Non-Bullying
+" Twitter",Non-Bullying
+" sure",Non-Bullying
+" lolss yeahh yew aree",Non-Bullying
+" Thee comp? or cellfonne! hehe",Non-Bullying
+" yes. and its a little creepy",Non-Bullying
+" dirt. God made dirt and dirt dont hurt!! :)",Non-Bullying
+" Have you ever wasted you&;re time on anybody?",Non-Bullying
+" thank you.",Non-Bullying
+" i dont do brands. i do the look. i like how it looks i buy it.",Non-Bullying
+" im living it. i think nightmares are never worse. you can always find one scarier and more wrose.",Non-Bullying
+" do you like skittles?",Non-Bullying
+" mmmmmkayyyyy",Non-Bullying
+" What color is your favorite hoodie?",Non-Bullying
+" My bed is on the floor unfortuantly. I know I hate it too! We're moving though :0",Non-Bullying
+" What is your favorite movie?",Non-Bullying
+" lisha n jennie",Non-Bullying
+" Bruno",Non-Bullying
+" I need a haircut for some style but im trying to grow it out !! so we'll see how long this lasts. ive been doing good lateley",Non-Bullying
+" If Fed Ex and UPS were to merge  would they call it Fed UP?",Non-Bullying
+" thats annoying",Non-Bullying
+" mmm what?",Non-Bullying
+" text me(:",Non-Bullying
+" Any new and exciting news youu2019d like to share?",Non-Bullying
+" lmfaoooooo. JEALOUS bitches make me sick!(; so nicoo  ahaah what th fxck is up! :D",Non-Bullying
+" Goooooood  cause I want you too ;))) <3",Non-Bullying
+" What&;s your favorite kind of fruit pie?",Non-Bullying
+" I am the master at skippping rocks!",Non-Bullying
+" What was your favorite toy to play with as a child?",Non-Bullying
+" going to my grandma's",Non-Bullying
+" why is it that another persons actions bother other people so badly?",Non-Bullying
+" What do you value most in your friends?",Non-Bullying
+" most of the time",Non-Bullying
+" september 7th",Non-Bullying
+" hahahaha :) I'd say it was a little bird but i think it was one smart cookie",Non-Bullying
+" whats the worst thing to ever happen to you",Non-Bullying
+" Have you ever blamed someone else after passing gas?",Non-Bullying
+" :D hahahaha",Non-Bullying
+" hahahahahahahha lmfao I HAVE A MY YEAR BOOK. that was probably mine  i stopped useing it like forever ago.",Non-Bullying
+" Have you ever been to those cyber cafes to use the internet? How much they charge per hour? I did a long time ago &amp;&amp; its 3 dollar an hour!!!",Non-Bullying
+" If you could ask George W. Bush one question what would it be?",Non-Bullying
+" yeah... even though i really couldnt.",Non-Bullying
+" What was the best concert you went to?",Non-Bullying
+" I think the same with all substance abuse while mothers are pregnant. IT SHOULDN'T BE USED!!!!! Not drinking  smoking cigs  pot  coke  shooting up  blahh tee blahh...its all the same. Dont do it. I think its very immature  selfish and uncaring for the unborn. They have no choice but to rely on the mother. NO CHOICE. SO as a mother  YOU should make the right choice for them.",Non-Bullying
+" Are you gonna watch the world cup?",Non-Bullying
+" Is there such thing in life as a selfless sacrafice?",Non-Bullying
+" OMG ! ! I did 200 Q&;s yeay MEEEE ! !",Non-Bullying
+" wid wat?",Non-Bullying
+" well put...",Non-Bullying
+" You silly girl :D",Non-Bullying
+" ew no.",Non-Bullying
+" Myself Bubbly Funny?",Non-Bullying
+" What&;s your favorite kind of cookie?",Non-Bullying
+" What was so great about jumping on the bed as a kid?",Non-Bullying
+" VVV yes or no question!",Non-Bullying
+" Do you put up Christmas lights at Christmas time?",Non-Bullying
+" What&;s the nicest thing someone&;s ever done for you?",Non-Bullying
+" Definantly not. One :]",Non-Bullying
+" Is there anyone who was in your life that it hurts you to think about?",Non-Bullying
+" Who&;s your favorite superhero?",Non-Bullying
+" Nope",Non-Bullying
+" Nahh",Non-Bullying
+" Alrightt",Non-Bullying
+" *wear*",Non-Bullying
+" What do people most often criticize about you? (If some of these are doules I am so sorry.)",Non-Bullying
+" yes. only because it's petty highschool crap thats annoying and not needed. haha",Non-Bullying
+" D:",Non-Bullying
+" piratee&;s or ninja&;s? Ahah",Non-Bullying
+" What&;s yur fav color?",Non-Bullying
+" How do you pronounce the word &quot;sure&quot;?",Non-Bullying
+" Thnksss.!! Umm thass juss how I do it(:!",Non-Bullying
+" whats your favorite out on myspace and facebook?",Non-Bullying
+" What did you dream about last night?",Non-Bullying
+" favorite song?",Non-Bullying
+" ckuss yew forgot bout mhe",Non-Bullying
+" damn. i hate shiiiit talkers on formspringgg. i thought it was just a random question site thing",Non-Bullying
+" Last gift you received?",Non-Bullying
+" -question-",Non-Bullying
+" favorite song?",Non-Bullying
+" me and scarletts",Non-Bullying
+" What around you could be used as a weapon?",Non-Bullying
+" Laptop Dogs Family Shoes bed clothes coffee maker oven washer&amp;dryer refridgerator table&amp;chairs pics camera bath tub! HAHAhAHAHAHHAHA!!!!",Non-Bullying
+" Visit? Plz *-* http://www.e-castig.com/index.php?r=R1wwn",Non-Bullying
+" What&;s the best gift you&;ve ever given?",Non-Bullying
+" ammmmmbbaaaaaa",Non-Bullying
+" Are your nippleSz pierced?",Non-Bullying
+" Do you like the smell of weed?",Non-Bullying
+" Is There Anyone You Wish You Never Met? -_-",Non-Bullying
+" nahhh i just hang up",Non-Bullying
+" you should come next week!",Non-Bullying
+" What kind of music do you listen to?",Non-Bullying
+" why do you do this to ashlee?",Non-Bullying
+" both. hahaha aliens may not be these craz green martians that have lasers for eyes and slime coming out of their heads..but just another form of being from another planet or galaxy. So i believe in aliens. yes. :) r as far as zombies. i believe it'll be  not in my generation or kids generation hopefullly.. but it'll be a genetic mutation that takes over the brain-that is created by some idiot scientist that works for the government and wants to take out a country or some kind of blahh bullshit. and it'll become out of control. and take over. i believe this  one day..somehow . somewhere. it'll start and its already slowly taking hold of society",Non-Bullying
+" Do you listen to music depending on what mood you are in or does music make your mood?",Non-Bullying
+" yesss",Non-Bullying
+" Favorite female comedian?",Non-Bullying
+" yes more than no. and because i roll with the punches. but like to think ahead at the same time haha",Non-Bullying
+" Cheesecake or brownies?  You can only pick one to have for the rest of your life.",Non-Bullying
+" toss it in a dumpster :P",Non-Bullying
+" Hitch hike babay haha",Non-Bullying
+" Actually its cabbage!;D",Non-Bullying
+" Do you believe in God?",Non-Bullying
+" bash my head against the wall hahaha ;)",Non-Bullying
+" What website do you spend the most time on?",Non-Bullying
+" 3 physical features you get complimented on a lot? Name your least favorite feature?",Non-Bullying
+" and it was an interesting question that i asked to get that hobo statement lol",Non-Bullying
+" yes i have before.",Non-Bullying
+" unpredictable.",Non-Bullying
+" what about 456?",Non-Bullying
+" book :]",Non-Bullying
+" I have 2 actually! Justin Bieber (ofcourse) &amp;&amp; Scipio Mondai!",Non-Bullying
+" kkkk",Non-Bullying
+" ummmm possibly a week haha i was cleaning myself haha im not a dirty person but like i had a broken arm anyways im sure it was less then that D:",Non-Bullying
+" musta? :)",Non-Bullying
+" What is a question you have yet to be asked?",Non-Bullying
+" Noo problem :] anytime.",Non-Bullying
+" If you could eat dinner with any person  dead or alive  who would it be and where would you go?",Non-Bullying
+" y ya wanna kno ??!",Non-Bullying
+" hahahaha true lady goo goo",Non-Bullying
+" WELL FOLKS THATS ALL FOR TONIGHT I HOPE YOU ENJOYED",Non-Bullying
+" :) awhh",Non-Bullying
+" are you loyal?",Non-Bullying
+" :) hey i agree with her (V) you are really pretty!",Non-Bullying
+" are you only acting nice to people now because you have to stay at brock?",Non-Bullying
+" Ate it?",Non-Bullying
+" really. travis?",Non-Bullying
+" umm money  money  money and short stack haha. =] and jimmy machan and beau taplin my obsessions atm lol =D",Non-Bullying
+" @y3 @l!X $3D yUh wUz j3rk!n oFf t@ q@y p0RN !n hIsz q@r@qe wi+ y0 d@d",Non-Bullying
+" last year <3 7th grade",Non-Bullying
+" pretty fast.",Non-Bullying
+" What is the most exotic place you have ever been to?",Non-Bullying
+" hope that it'll work? haha",Non-Bullying
+" Who&;s the sexiest woman alive?",Non-Bullying
+" Can you tell if someone is lying to you?",Non-Bullying
+" Would you ever shave the side of  your head?",Non-Bullying
+" No school for me",Non-Bullying
+" Who would make a better spy...a woman or a man?",Non-Bullying
+" Person you talk on the phone with the most?",Non-Bullying
+" What do you think about parwents who drink alcohol around their children?",Non-Bullying
+" Pussy Cat dolls OR Paradiso Girls?",Non-Bullying
+" make it big enough for my extended family and those who really arent &quot;family&quot; but treat them like they are to live in",Non-Bullying
+" What&;s the best place near you to get a drink?",Non-Bullying
+" What would you do if you were the first person on Earth?",Non-Bullying
+" Hmm..sloth is what came to mind lol but its not really what I wanted. haha maybe  dragon :]",Non-Bullying
+" Dayyym gurl u got it goin on! ;]",Non-Bullying
+" If I feel like I need to then yes.",Non-Bullying
+" comedy or horror movies?",Non-Bullying
+" kkkk. hope you feel better!",Non-Bullying
+" What&;s the worst thing about where you live?",Non-Bullying
+" Haha yepp",Non-Bullying
+" Text me?",Non-Bullying
+" damn yew just hurt my feelingss",Non-Bullying
+" ahahaha!!!(: It wuzz funn!(: lmao<3",Non-Bullying
+" Do you miss your past?",Non-Bullying
+" Umm? Think wht chuu want babeyy(:",Non-Bullying
+" not at all!!! I smile too much",Non-Bullying
+" who was ur first kiss",Non-Bullying
+" Do you know anyone in prison?",Non-Bullying
+" hahahahahaahaha is this dakota silvey?",Non-Bullying
+" have you ever wrote a love song?",Non-Bullying
+" Do you believe honesty is the best policy?",Non-Bullying
+" I loveeee youuuu alexissssssssssss vvvv mines better(: hehe<3333",Non-Bullying
+" Does your school have dry erase board or chalk boards?",Non-Bullying
+" Listener definitely chuz i get cut off alot so i just listen or ignore pplz!",Non-Bullying
+" Has it ever been hard for you to say &quot;I love you&quot;?",Non-Bullying
+" What&apos;s a saying you say a lot?",Non-Bullying
+" hahahahahah every one keeps asking this! but nopppeeee.",Non-Bullying
+" sing?",Non-Bullying
+" if you could be with anygirl in the whole world  who would that girl be?",Non-Bullying
+" well if this is who i think it is  you didnt ask to see my poems  and i wrote some for you and i showed you and you didnt care much",Non-Bullying
+" yes once",Non-Bullying
+" That's my baby rightt thhere!(; haha but nah",Non-Bullying
+" are you a party girl?",Non-Bullying
+" thank you :)",Non-Bullying
+" no we talk up!",Non-Bullying
+" hmm.r my husband.",Non-Bullying
+" shan kinqst0n yo cuhz??? forrreal???",Non-Bullying
+" Hahah!! ohhkayy?!?! lol Wht do you call a deer with no eyes? I have no ideer! haha Classic  umm i suck at this haha",Non-Bullying
+" yes! haha neat trait of mine.. i can plug my nose with my lips :]",Non-Bullying
+" You outta know by Alanis Morrissette ;]",Non-Bullying
+" False.",Non-Bullying
+" Do you like the movie Chronicles of Narnia?",Non-Bullying
+" siblings?",Non-Bullying
+" Have you ever bid for something on ebay?",Non-Bullying
+" in highschool maybe haha",Non-Bullying
+" Well i thought that you were at first but I've realized that you're intentions are good and i wanna get your number ;)))",Non-Bullying
+" Favve Song ?",Non-Bullying
+" Thnks :]",Non-Bullying
+" do you wear hats?",Non-Bullying
+" What color is your toothbrush?",Non-Bullying
+" funny background statement =>",Non-Bullying
+" Nope",Non-Bullying
+" I luhh u already! I dha grl dat wanna give u becky and sex",Non-Bullying
+" Is love necessary in life?",Non-Bullying
+" nahhh",Non-Bullying
+" yea i don't like it when it's dirty",Non-Bullying
+" Why do you press harder on the remote-control when you know the battery is dead?",Non-Bullying
+" that was gonna be the first hint but i guess i knew it was too obvious",Non-Bullying
+" Seriously  leave Tabi alone. WTF VVVVV",Non-Bullying
+" well would you believe that youve got me &quot;Love Stoned&quot;?",Non-Bullying
+" What was the best advice you&;ve ever received?",Non-Bullying
+" nope.",Non-Bullying
+" with nail grooming tools? file  clippers  no biting people! thats so gross and unsanitary.",Non-Bullying
+" do you think you&;re a good friend?",Non-Bullying
+" What food are you burnt out on?",Non-Bullying
+" dhatt wass me ! lol",Non-Bullying
+" Have you bought any new clothing items this week?",Non-Bullying
+" They're okay. i haven't seen them in a long time :/",Non-Bullying
+" not really when i first meet them",Non-Bullying
+" Lykee OhhEmmGee ! Hiii Mikey !",Non-Bullying
+" Are you picky about spelling and grammar?",Non-Bullying
+" popcorn!!! twizzlers. and some mike and ikes.",Non-Bullying
+" Ohhh well i didnt know you were doing that  you know since the questions come backwards to you..hahhaa sorry about all the show your face comments. hahha",Non-Bullying
+" Do you wish someone was with you right now?",Non-Bullying
+" kohl's actually.",Non-Bullying
+" yes. but we end up warped in the end either way..",Non-Bullying
+" Entertainingly cheesy :]",Non-Bullying
+" Do you think you&apos;re hot and/or sexy?",Non-Bullying
+" repeat.",Non-Bullying
+" I cannot listen to that Heavy metal! I like me some rock(oldies) bhut not that scary shit ;D",Non-Bullying
+" DO U NO ALIX&;S SISTER HAS A CRUCH ON YOU",Non-Bullying
+" repeat",Non-Bullying
+" hey who diz?",Non-Bullying
+" I aint da one dat said da tampon thang. But i added yo myspace.",Non-Bullying
+" How many languages do you speak?",Non-Bullying
+" lol no iDnt iGuess bih",Non-Bullying
+" sometimes. i did that a lot when i was sick this past wk",Non-Bullying
+" You'll neverr know (:",Non-Bullying
+" hold im confused",Non-Bullying
+" i wouldnt catch one.",Non-Bullying
+" Haha nahh ive just fractured some thumbs bhut itz all good lol",Non-Bullying
+" did we have any classes together this year?",Non-Bullying
+" I Havent Gotten 2 that part!! haha",Non-Bullying
+" I dont. But what is complaining about it going to do?",Non-Bullying
+" Bahah  yeah i&;m totally just gonna&; get pissed at you for talking to you. Mhm  thats just how i am! ;D r Ha  noooot so muchh.",Non-Bullying
+" hahahahaha >:) im evil mwahahahahahahahahaha",Non-Bullying
+" What&;s something unique about Ohio? :)",Non-Bullying
+" Who is the biggest gossiper you know?",Non-Bullying
