@@ -384,7 +384,7 @@ Tweet,Text Label
 " hahahaahha i know  myspace.com/tabiisaninja",Non-Bullying
 " How long does it take you to get to work or school?",Non-Bullying
 " hahahha i really love that hahaha :)",Non-Bullying
-" I think the mama song :) hahar It was really pretty and it was the first time I had heard it  so live was awesome.",Non-Bullying
+" I think the mama song  :) hahar It was really pretty and it was the first time I had heard it  so live was awesome.",Non-Bullying
 " dont watch talk shows.",Non-Bullying
 " Does it annoy when people jock your shit?",Non-Bullying
 " When was the last time you flipped someone the bird?",Non-Bullying
