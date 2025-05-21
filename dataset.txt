@@ -1,6 +1,54 @@
 Tweet,Text Label
+"rape",Bullying
 "Get fucking real dude",Bullying
 "She is as dirty as they come  and that crook Rengel  the Dems are so fucking corrupt it's a joke. Make Republicans look like ...",Bullying
+"You're such a loser",Bullying
+"Nobody likes you",Bullying
+"Go die",Bullying
+"You're so ugly",Bullying
+"Fat pig",Bullying
+"You’re a waste of space",Bullying
+"Bitch",Bullying
+"Slut",Bullying
+"Idiot",Bullying
+"Moron",Bullying
+"Dumbass",Bullying
+"Stupid loser",Bullying
+"Go kill yourself",Bullying
+"Freak",Bullying
+"Nobody wants you here",Bullying
+"Retard",Bullying
+"You’re useless",Bullying
+"Stop acting like a psycho",Bullying
+"You're nothing",Bullying
+"Just shut up already",Bullying
+"Ugly bitch",Bullying
+"Fat cow",Bullying
+"You're so dumb",Bullying
+"Go to hell",Bullying
+"Die in a hole",Bullying
+"Your face makes me sick",Bullying
+"Filthy creature",Bullying
+"You don’t belong here",Bullying
+"Piece of shit",Bullying
+"You're trash",Bullying
+"Nobody cares about you",Bullying
+"Stupid fat ass",Bullying
+"Burn in hell",Bullying
+"Attention seeker",Bullying
+"Go cry to your mommy",Bullying
+"You act like a dog",Bullying
+"You talk like a retard",Bullying
+"Stinky idiot",Bullying
+"Your parents must be ashamed",Bullying
+"Ugly and dumb",Bullying
+"People laugh at you",Bullying
+"No one will ever love you",Bullying
+"You're adopted",Bullying
+"You deserve to be alone",Bullying
+"You're a disgrace",Bullying
+"Just vanish",Bullying
+"You're a failure",Bullying
 "why did you fuck it up. I could do it all day too. Let's do it when you have an hour. Ping me later to sched writing a book here.",Bullying
 "Dude they dont finish enclosing the fucking showers. I hate half assed jobs. Whats the reasononing behind it? Makes no sense.",Bullying
 "WTF are you talking about Men? No men thats not a menage  that's just gay.",Bullying
@@ -27,6 +75,7 @@ Tweet,Text Label
 "the hormones are worse for guys.  I cant tell you how much I truly hate the thoughts that go through my head.",Bullying
 "except for joe jonas the ass munch who broke up w/our tyler via phone..kinda like doing via text - what kind of a-hole does that?",Bullying
 "man that rly sucks. I for 1 am positive that all will work out. You're a bright dude... pretty cool 2 if I don't say so myself.",Bullying
+"algorithms",Bullying
 "hard to kick ass yourself with slippers on?  On it.",Bullying
 "Thats pretty damn awesome! Very smart :) @Aaronage Sure!",Bullying
 "freak'n awesome. so far loving 4.5. the browser is fantastic. and finally video  pretty cool",Bullying
@@ -230,6 +279,7 @@ Tweet,Text Label
 "LOL at the Razor Ramon shit. I surely was gonna Ultimate Warrior his ass. Shaking the ropes and the whole 9!",Bullying
 "You done started something! Got me all nostalgic and shit KNOWING good and damn well I got work to do...LOL",Bullying
 "@mekdot yo...heroes sucks!!! I loved season 1  despised 2 and feel like season 3 is a lousy high school special. BOO HISS BOO!!",Bullying
+"personal photos",Bullying
 "That sucks  they owe you much?",Bullying
 "Boo  to be fair they shouldn't give away your room. Kick their ass!",Bullying
 "Wow  that's bad-ass. You're like Stanley now. Well  even more so...",Bullying
@@ -705,3 +755,11 @@ Tweet,Text Label
 " hahahahaha >:) im evil mwahahahahahahahahaha",Non-Bullying
 " What&;s something unique about Ohio? :)",Non-Bullying
 " Who is the biggest gossiper you know?",Non-Bullying
+pukgaa athugaaa,Bullying
+ramu manchi baludu,Non-Bullying
+ravi gadu chedda baludu,Non-Bullying
+"algorithms",Bullying
+algorithms,Bullying
+freaky,Bullying
+freaky,Bullying
+freaky,Bullying

@@ -229,6 +229,7 @@ def PostSent(request):
         if not msg or len(msg.strip()) < 5:
             return render(request, 'SendPost.html', {'data': 'Error: Message too short or empty.'})
 
+        org=msg
         msg = msg.strip().lower()
         msg = re.sub(r'[^a-zA-Z\s]+', '', msg)
         print("Input message:", msg)
@@ -249,7 +250,7 @@ def PostSent(request):
         bully_prob = probs[0][1]
         print("Bullying probability:", bully_prob)
 
-        threshold = 0.7
+        threshold = 0.4
         if bully_prob >= threshold:
             status = f'Cyber Harassers ({round(bully_prob * 100, 2)}% confidence)'
         else:
@@ -262,7 +263,7 @@ def PostSent(request):
         db_connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='!@#$', database='cyber', charset='utf8')
         db_cursor = db_connection.cursor()
         student_sql_query = "INSERT INTO posts(sender,filename,msg,posttime,status) VALUES(%s,%s,%s,%s,%s)"
-        db_cursor.execute(student_sql_query, (user, filename, msg, current_time, status))
+        db_cursor.execute(student_sql_query, (user, filename, org, current_time, status))
         db_connection.commit()
 
         if db_cursor.rowcount == 1:
