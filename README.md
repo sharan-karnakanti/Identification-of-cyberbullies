@@ -25,15 +25,15 @@ Technologies Used
 
 Project Structure (Important Files)
 ------------------------------------
-Cyber/                  --> Django project core (settings, urls)
-CyberBullying/          --> Main app (views, models, templates)
-static/                 --> Static images and CSS
-templates/              --> HTML pages
-media/                  --> Media images (optional)
-dataset.txt             --> Dataset file with bullying-related words
-features.txt            --> Additional feature data
-requirements.txt        --> Libraries to install
-manage.py               --> Django project runner
+Cyber/                  --> Django project core (settings, urls)  
+CyberBullying/          --> Main app (views, models, templates)  
+static/                 --> Static images and CSS  
+templates/              --> HTML pages  
+media/                  --> Media images (optional)  
+dataset.txt             --> Dataset file with bullying-related words  
+features.txt            --> Additional feature data  
+requirements.txt        --> Libraries to install  
+manage.py               --> Django project runner  
 
 Installation & Setup
 --------------------
