@@ -40,7 +40,7 @@ Installation & Setup
 
 Step 1: Clone the Repository
 ----------------------------
-git clone https://github.com/sharan-karnakanti/Identification-of-cyberbullies.git
+git clone https://github.com/sharan-karnakanti/Identification-of-cyberbullies.git\n
 cd Identification-of-cyberbullies
 
 Step 2: Setup a Virtual Environment (Recommended)
