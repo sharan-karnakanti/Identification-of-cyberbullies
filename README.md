@@ -99,8 +99,8 @@ Author
 ------
 Sharan Kumar
 
-LinkedIn: https://www.linkedin.com/in/k-sharan-kumar/
-GitHub: https://github.com/sharan-karnakanti
+LinkedIn: https://www.linkedin.com/in/k-sharan-kumar/  
+GitHub: https://github.com/sharan-karnakanti  
 Email: sharankumar1132002@gmail.com
 
 Disclaimer
