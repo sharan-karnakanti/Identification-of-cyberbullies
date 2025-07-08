@@ -58,12 +58,12 @@ source venv/bin/activate
 
 Step 3: Install Dependencies
 ----------------------------
-Install Django and other required packages:
+Install Django and other required packages:  
 pip install -r requirements.txt
 
 Step 4: Run Database Migrations
 -------------------------------
-Since this is a simple project, database setup may not be critical, but run migrations to avoid issues:
+Since this is a simple project, database setup may not be critical, but run migrations to avoid issues:  
 python manage.py migrate
 
 Step 5: Run the Django Server
